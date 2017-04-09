@@ -1,0 +1,212 @@
+#container{
+margin:0 auto;
+width:960px;
+  
+}
+body {
+    direction: rtl;
+    background-color: #74668C;
+    background-image: url('17546922_1679910515359186_5531990871319983682_o.jpg');
+    background-repeat:no-repeat;
+    background-size:1325px;
+    background-position:top;
+    
+}
+ 
+h2{
+    color:white;
+    font-family:'Varela Round', sans-serif;
+    text-align: center;
+    font-size:80px;
+    padding-top:10px;
+    text-shadow: 1px 2px 1px #493C7D;
+ 
+}
+h1{
+    color:white;
+    font-family:'Varela Round', sans-serif;
+    text-align: center;
+    font-size:33px;
+    margin-top:450px;
+}
+
+#Ph{
+    background-position:right;
+    border-radius: 200px;
+    color:white;
+    font-family:'Varela Round', sans-serif;
+    font-size:23px;     
+    font-weight: bold;
+    text-align: center;
+    text-indent:hanging;
+    margin-left:15px;
+    padding-left:3px;
+    padding-right:3px;
+    resize: both;
+    overflow: auto;
+    min-width: 90px;
+    min-height: 50px;
+    -webkit-box-shadow:inset 2px 2px 2px 2px #F5FFFD;
+    text-shadow: 1px 1px 0.7px #E3E3E3;
+    box-shadow:inset 1px 1px 2px 2px #F5FFFD;
+    position:relative;
+    right:100px;
+    top:25px;
+    height:200px;
+    width:200px;
+    background-color:#644874;
+    border-radius:140px 140px 140px 140px;
+   
+}
+#Ph:hover{
+       text-transform: uppercase;
+		font-weight:bold;
+		color:lightyellow;
+		background-color:#9CD064 ;
+	}
+
+
+#Tech{
+    background-position:right;
+    border-radius: 200px;
+    color:white;
+    font-family:'Varela Round', sans-serif;
+    font-size:23px;     
+    font-weight: bold;
+    text-align: center;
+    text-indent:hanging;
+    margin-left:15px;
+    padding-left:3px;
+    padding-right:3px;
+    resize: both;
+    overflow: auto;
+    min-width: 90px;
+    min-height: 50px;
+    -webkit-box-shadow:inset 2px 2px 2px 2px #F5FFFD;
+    text-shadow: 1px 1px 0.7px #E3E3E3;
+    box-shadow:inset 1px 1px 2px 2px #F5FFFD;
+    position:relative;
+    right:380px;
+    bottom:180px;
+    height:200px;
+    width:200px;
+    background-color:#644874;
+    border-radius:140px 140px 140px 140px;
+    display: inline-block;
+
+}
+#Tech:hover{
+       text-transform: uppercase;
+		font-weight:bold;
+		color:#B4B4B4;
+		background-color:#FFDC5D;
+	}
+
+
+#Design{
+    visibility:visible;
+    background-position: right;
+    border-radius: 200px;
+    color: white;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 23px;
+    font-weight: bold;
+    text-align: center;
+    text-indent: hanging;
+    margin-left: 100px;
+    padding-left: 3px;
+    padding-right: 3px;
+    resize: both;
+    overflow: auto;
+    min-width: 90px;
+    min-height: 50px;
+    -webkit-box-shadow: inset 2px 2px 2px 2px #F5FFFD;
+    text-shadow: 1px 1px 0.7px #E3E3E3;
+    box-shadow: inset 1px 1px 2px 2px #F5FFFD;
+    position: relative;
+    right: 440px;
+    bottom: 180px;
+    height: 200px;
+    width: 200px;
+    background-color: #644874;
+    border-radius: 140px 140px 140px 140px;
+    display: inline-block;
+}
+
+
+ #Design:hover {
+    
+      text-transform: uppercase;
+     font-weight:bold; 
+     color:lightyellow;
+	  background-color:rosybrown;
+	}
+
+ #Exp{
+   color:white;
+    font-family:'Varela Round', sans-serif;
+    text-align: center;
+    font-size:39px;
+    text-shadow: 1px 2px 1px #493C7D;
+    position: absolute;
+    top: 830px;
+    right: 250px;
+    width: 800px;
+
+   
+ }
+   
+ 
+.myText{
+font-family: 'Varela Round', sans-serif;
+    font-size: 10px;
+      text-align: center;
+      padding:10px,10px,10px,10px;
+      text-align:center;
+      background-position: center;
+ 
+ }
+
+
+ form{
+     margin-right:250px;
+
+ }
+
+ #Extra {
+ color:white;
+    font-family:'Varela Round', sans-serif;
+    text-align: center;
+    font-size:16px;
+    position: absolute;
+    margin-top: 20px;
+    margin-right:405px;
+   
+ }
+   a:link {
+    color: green; 
+    background-color: transparent; 
+    text-decoration: none;
+}
+
+
+
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+#Submit{
+ font-family:'Varela Round', sans-serif;
+    text-align: center;
+    font-size:16px;
+    margin-top: 20px;
+    margin-right:160px;
+}
+
+input [type=text]{
+background-color: #3CBC8D;
+    color: white;
+}
+
